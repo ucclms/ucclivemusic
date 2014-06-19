@@ -1,18 +1,16 @@
 ucclivemusic.com
 ============
-About
-------------
+###About
 version: 2.0
 release: 01-08-14
 Authors: Cathal Toomey, Eamonn Clancy
 
-#Task List
+###Task List
 | Title | Assigned To | Started On | Completed |
 |-----|:-----------:|----------|---------|
 | Create requirements | E | 2-Jun-14 | |
 
-Requirements
-------------
+###Requirements
 The User Experience must include a way to:
 - view and contact a committee member
 - subscribe to the society mailing list
