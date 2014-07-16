@@ -1,0 +1,14 @@
+64x64 - red background
+64x64 - blue background
+64x64 - transparent background
+
+128x128 - red background
+128x128 - blue background
+128x128 - transparent background
+
+512x512 - red background
+512x512 - blue background
+512x512 - transparent background
+
+Hallowe'en - black
+Christmas - red

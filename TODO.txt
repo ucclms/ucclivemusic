@@ -1,0 +1,8 @@
+EAMONN:
+- Gather images 
+- Design front page UI
+- Start index coding and shizzzz
+
+CATHAL:
+- Edit images, once gathered...
+- Add third party software to tools/external

@@ -1,14 +1,10 @@
 <?php
-	include "Library/basicOutput.php";
+    require_once "Library/basicOutput.php";
 
-	echo printParagraph("Testing...");
-	echo printHeading(4, "Hoi");
+    $list = array("sdf", "sfdfs", "hey");
 
-	$list = array("this", "is", "a", "list");
-	echo printList( null, false, $list );
-
-	printWebpage( array(
-		printTitle( "Test page" ),
-		printList( null, false, $list )
-	));
+    printHtmlHead();
+    printTitle( "Test page" );
+    printList( null, false, $list );
+    printHtmlTail()
 ?>
