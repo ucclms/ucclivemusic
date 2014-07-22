@@ -6,3 +6,4 @@ EAMONN:
 CATHAL:
 - Edit images, once gathered...
 - Add third party software to tools/external
+- Decide on a WYSIWIG editor for the CMS: http://www.sitepoint.com/html5-wysiwyg/
