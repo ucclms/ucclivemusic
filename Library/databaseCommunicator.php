@@ -24,7 +24,7 @@
       * @return array The rows retrieved from the database
       * 
       */
-     function select_all($tableName, &$where, $numRows = 0){
+     function select_all($tableName, &$where = array(), $numRows = 0){
          $sql = "SELECT * FROM {$tableName}";
          $i = 0;
          foreach($where as $clause){
