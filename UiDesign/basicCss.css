@@ -29,8 +29,8 @@ nav > ul > li {
   border-right: 1px solid grey;
 } 
 
-nav > ul > li:first-of-type{
-  border-left: 1px solid grey;
+nav > ul > li:last-of-type{
+  border-right: none;
 }
 
 nav > ul > li > a{
